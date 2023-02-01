@@ -6,7 +6,7 @@ The fundamental concepts in technical mathematics and precalculus using programm
 - Alien Invasion
 - Planets
 
-###<u>CappadociaTrip.cpp</u>
+### <ins>CappadociaTrip.cpp</ins>
 ![pictures/cappadocia.png](./pictures/cappadocia.png)
 
 <b>AIM: </b> 
@@ -28,7 +28,7 @@ User create at most 10 complex shaped hot-air balloons at the click position on 
 * * After all the ballons exit the screen, the message reappears
 * Program terminates when ESC key is pressed
 
-###<u>AlienInvasion.cpp</u>
+### <ins>AlienInvasion.cpp</ins>
 
 ![pictures/alien.png](./pictures/alien.png)
 
@@ -49,7 +49,7 @@ User try to remove complex shaped ufos from the screen using rockets leaving the
 * A proper beggining and ending messages are displayed
 * Program terminates when ESC key is pressed
 
-###<u>Planets.cpp</u>
+### <ins>Planets.cpp</ins>
 
 ![pictures/planets.png](./pictures/planets.png)
 
